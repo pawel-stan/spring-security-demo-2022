@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+    margin-top: 2rem;
+}
+
+body {
+    height: 100%;
+    background-color: #565656;
+    color: snow;
+}
+
+h1 {
+    background-color: dodgerblue;
+    color: snow;
+    padding: 1%;
+}
